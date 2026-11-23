@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Assemblyname>task-cli</Assemblyname>
+    <Version>1.0.0</Version>
+    <Authors>Th12</Authors>
+    <Description>A simple task tracker CLI</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    
+    
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>task-cli</ToolCommandName>
+  </PropertyGroup>
+
+</Project>
