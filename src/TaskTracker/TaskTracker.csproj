@@ -8,7 +8,6 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     
-    
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>task-cli</ToolCommandName>
   </PropertyGroup>
