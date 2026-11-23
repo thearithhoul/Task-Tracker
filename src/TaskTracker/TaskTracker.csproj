@@ -2,9 +2,11 @@
 
   <PropertyGroup>
     <Assemblyname>task-cli</Assemblyname>
+    <InvariantGlobalization>true</InvariantGlobalization>
     <Version>1.0.0</Version>
     <Authors>Th12</Authors>
     <Description>A simple task tracker CLI</Description>
+    <RepositoryUrl>https://github.com/thearithhoul/Task-Tracker.git</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     
